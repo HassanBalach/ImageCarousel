@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(62, 60, 60);
+}
+
+
+.mainContainer{
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  margin: 05% ;
+ 
+  
+  
+}
+button{
+  background-color: blue;
+  padding: 10px;
+  color: white;
+  margin: 0 10%;
+  border-radius: 20px;
+}
